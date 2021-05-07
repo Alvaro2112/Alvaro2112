@@ -16,6 +16,22 @@ My name is Alvaro Caudéran and I'm a student at EPFL in Computer Science. You c
 <a href="https://github.com/Alvaro2112/Alvaro2112">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvaro2112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+<a href="https://github.com/Alvaro2112/GAIL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro2112&repo=GAIL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Alvaro2112/AtariPPO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro2112&repo=AtariPPO&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/Alvaro2112/CartPole-Gym-DDQN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro2112&repo=CartPole-Gym-DDQN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://github.com/Alvaro2112/CartPole-Gym-Qlearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alvaro2112&repo=CartPole-Gym-Qlearning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
