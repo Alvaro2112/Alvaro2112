@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Alvaro Caudéran and I'm a student at EPFL in Computer Science. You can contact me at alvaro.cauderan@epfl.ch, also, you can find me on  [![LinkedIn][3.2]][3].
+My name is Alvaro Caudéran and I'm a student at EPFL in Computer Science. You can contact me at alvaro.cauderan@epfl.ch, also, you can find me on Linkedin [![LinkedIn][3.2]][3].
 
 
 
